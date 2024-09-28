@@ -1,4 +1,6 @@
+https://openai.com/index/better-language-models/
 Topic: Language Models are Unsupervised Multitask Learners
+
 ### Introduction: 
 - Multitask learning, which involves training a model on multiple tasks simultaneously, has the potential to improve generalization.
 - Zero-shot learning is a technique where a model can perform a task it hasn't been specifically trained on.
