@@ -1,0 +1,52 @@
+Topic: Language Models are Unsupervised Multitask Learners
+### Introduction: 
+- Multitask learning, which involves training a model on multiple tasks simultaneously, has the potential to improve generalization.
+- Zero-shot learning is a technique where a model can perform a task it hasn't been specifically trained on.
+- This paper demonstrates that language models can perform tasks in a zero-shot setting, meaning they don't need any additional training or modifications.The authors show that these language models can achieve promising results on a variety of tasks, even without being explicitly trained for them.
+- combines 2 approaches (1)Pre-training and supervised fine-tuning and (2) Zero-shot learning
+
+Approch: 
+- learning to perfrom a simple tast can be expressed as estimating conditional probability P(output|input)
+- a general system should be able to perform several output for same input, to do so, the condition should also incluse the task to be performed.P(output|input, task)
+- Multi-task learning -> from various tasks how do I improme my performance
+- Meta learning -> from various tasks how do I learn to learn from those tasks 
+- The global minimum of the unsupervised objective = the global minimum of the supervised objective This means that training a language model on an unsupervised objective can also optimize the supervised objective, potentially saving time and effort. 
+
+### Big Question:
+The authors believe that a powerful enough language model will start to understand and perform tasks demonstrated in natural language text, even if it hasn't been specifically trained for those tasks. This means it can learn to do many different things just by being exposed to lots of text data, without needing extra instructions or examples
+- To test this hypothesis by analyzing the performance of language models in a zero-shot setting on a wide variety of tasks.
+
+### Summarize the background in 5 sentences: 
+They trained four language models of different sizes. The smallest model is similar to the original GPT, and the largest model has many more parameters. They trained these models on a dataset called WebText. They found that all of the models were still underfitting, meaning they could benefit from more training.
+
+### Identify approach/ Identify specific question(s):
+- dataset called WebText by scraping links from Reddit that had received at least 3 karma, indicating that other users found them interesting or valuable. This helped ensure better quality of the scraped text.
+The final WebText dataset contains over 8 million documents and 40GB of text, and it has been cleaned and filtered to remove duplicates and low-quality content.
+
+### Draw a diagram
+
+### Summarize results from each experiment
+- Children’s Book Test (CBT): dataset used to evaluate language models on their ability to predict words in different categories.
+- LAMBADA: dataset tests how well language models can understand long-range dependencies.
+-  Winograd Schema Challenge: dataset used to test a system's ability to perform commonsense reasoning.
+- CoQA: dataset tests a model's ability to understand a document and answer questions about it, including questions that require understanding the conversation history.
+- The authors investigated data overlap between training (WebText) and test sets (different datasets) in language models. They found limited overlap, but it still might affect performance. They recommend using n-gram overlap to check for duplicates and evaluating a model on its own held-out data to detect memorization.
+
+### Do results answer the specific question(s)
+- the authors' research contributes to the field of language modeling by demonstrating the benefits of large-scale language models and exploring their capabilities in various tasks.
+
+### Read concluision/discussion/interpretation section
+Key Points:
+- Unsupervised Task Learning: The authors argue that unsupervised task learning is a promising area of research, as evidenced by the success of pre-training techniques in NLP.
+- GPT-2's Zero-Shot Performance: GPT-2 demonstrated impressive zero-shot performance on various NLP tasks, including language modeling, reading comprehension, and summarization.
+- Limitations: Despite its successes, GPT-2 still has limitations, especially in terms of quantitative metrics for tasks like summarization.
+- Future Directions: The authors suggest exploring fine-tuning GPT-2 on benchmarks like decaNLP and GLUE to further improve its performance and address the limitations of uni-directional representations.
+Overall, the authors' work highlights the potential of large language models to perform a variety of tasks in a zero-shot setting, suggesting that unsupervised learning is a valuable approach for NLP.
+
+### Now read abstract
+- The capacity of the language model is essential to the success of zero-shot task transfer
+- findings suggest a promising path towards building language processing systems which learn to perform tasks from their naturally occurring demonstrations.
+FINAL RESULT: GPT-2,
+is a 1.5B parameter Transformer that achieves state of the art results on 7 out of 8 tested language modeling datasets in a zero-shot setting but still underfits WebText.
+
+### What do other researchers say about it
