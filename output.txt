@@ -1,0 +1,454 @@
+No labml server url specified. Please start a labml server and specify the URL. Docs: https://github.com/labmlai/labml/tree/master/app
+
+gpt: 09372d3aa56c11ef80aa0242ac1c000c
+[clean]: ""
+~/labml/configs.yaml does not exist. Creating /root/.labml/configs.yaml
+Initialize...
+  Prepare mode...[DONE]	4.76ms
+Initialize...[DONE]	98.18ms
+Prepare validator...
+  Prepare valid_loader...[DONE]	165.72ms
+Prepare validator...[DONE]	341.78ms
+Prepare trainer...
+  Prepare train_loader...[DONE]	361.32ms
+Prepare trainer...[DONE]	429.42ms
+Prepare training_loop...
+  Prepare loop_count...[DONE]	51.27ms
+Prepare training_loop...[DONE]	361.94ms
+It is 3'-Tsw'Rt'sYYe'&sYYFGz:sY
+       0:  Sample: 100%    819ms  Train:  ...  0ms    819ms  0:00m/  0:00m  
+Prepare optimizer...[DONE]	138.86ms
+Prepare optimizer.optimizer...
+  Prepare optimizer.weight_decay_obj...[DONE]	3.84ms
+Prepare optimizer.optimizer...[DONE]	4,511.08ms
+It is the the the the the there
+It is the the the the the the t
+It is the the thathathe the the
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+1,003,776:  Sample: 100%    323ms  Train: 100%  44,391ms  Valid: 100% 1,542ms   loss.train:  2.38816 accuracy.train: 0.248990 loss.valid:  2.37164 accuracy.valid: 0.267455  54,841ms  0:00m/  0:28m  
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is the the the the the the t
+It is and and the the the the t
+2,007,552:  Sample: 100%    307ms  Train: 100%  44,715ms  Valid: 100% 1,633ms   loss.train:  2.12367 accuracy.train: 0.339758 loss.valid:  2.16499 accuracy.valid: 0.338781  53,417ms  0:01m/  0:26m  
+It is the the the the the the t
+It is anot the the the so the t
+It is the the the the the the t
+It is and the the the the the t
+It is mane the the hear the the
+It is and the with the with the
+It is a the the the the the the
+It is and the shall there stake
+It is and the shall hear hear h
+It is a the shall the shall the
+3,011,328:  Sample: 100%    310ms  Train: 100%  45,393ms  Valid: 100% 1,639ms   loss.train:  1.92222 accuracy.train: 0.412765 loss.valid:  1.97327 accuracy.valid: 0.400348  52,405ms  0:02m/  0:25m  
+It is the so the so do the so t
+It is the shall the the shall t
+It is the shall the shall the s
+It is the stall the the the the
+It is and the the shall the hav
+It is the stake the stand the s
+It is the so the so the so the 
+It is the the sto the stall the
+It is the streed the stronge th
+It is the stand the shall the s
+4,015,104:  Sample: 100%    356ms  Train: 100%  44,933ms  Valid: 100% 1,652ms   loss.train:  1.74638 accuracy.train: 0.462810 loss.valid:  1.85404 accuracy.valid: 0.442523  52,450ms  0:03m/  0:24m  
+It is a the see the see the see
+It is a shall a she sould the s
+It is the shall the she she sha
+It is the shall the shall the s
+It is the the some the some the
+It is the some the so the shoul
+It is the stand the should the 
+It is the shall son the son the
+It is the shall be the world th
+It is the shall be the shall be
+5,018,880:  Sample: 100%    302ms  Train: 100%  45,296ms  Valid: 100% 1,645ms   loss.train:  1.62532 accuracy.train: 0.495392 loss.valid:  1.69944 accuracy.valid: 0.473289  52,241ms  0:04m/  0:23m  
+It is the see the so so so so s
+It is the some to the some the 
+It is the stand the stand the s
+It is the stand the shall be th
+It is the the stand the the sha
+It is the sent of the sents of 
+It is the so so so the so the s
+It is the soul so the stand of 
+It is the some the some of the 
+It is the stand the state of th
+6,022,656:  Sample: 100%    346ms  Train: 100%  45,434ms  Valid: 100% 1,679ms   loss.train:  1.54824 accuracy.train: 0.518309 loss.valid:  1.67914 accuracy.valid: 0.490977  52,368ms  0:05m/  0:22m  
+It is the come of the company o
+It is the shall the shall be th
+It is the world the will the pr
+It is the some of the should be
+It is the son of the sorth of t
+It is the shall be the shall be
+It is the shall be so so so sou
+It is the will the world the st
+It is the stand the stand of th
+It is the common the common of 
+7,026,432:  Sample: 100%    338ms  Train: 100%  45,426ms  Valid: 100% 1,657ms   loss.train:  1.46779 accuracy.train: 0.535232 loss.valid:  1.65094 accuracy.valid: 0.510396  52,388ms  0:06m/  0:21m  
+It is the such of the shall be 
+It is the shall be the see the 
+It is the son of the father of 
+It is the send of the cannot of
+It is the shall be the should b
+It is the world of the world th
+It is the dead of the grace of 
+It is the son of the shall be t
+It is the world and the world a
+It is the come of the country o
+8,030,208:  Sample: 100%    347ms  Train: 100%  45,461ms  Valid: 100% 1,668ms   loss.train:  1.46146 accuracy.train: 0.548111 loss.valid:  1.59399 accuracy.valid: 0.518998  52,517ms  0:07m/  0:20m  
+It is the stand of the state of
+It is the such of the world and
+It is the stand of the stand of
+It is the state of the state,
+T
+It is the straight of the shall
+It is the state of the seat of 
+It is the some of the soul of t
+It is the should be the sentent
+It is the provoster of the prin
+It is the subject of the stand.
+9,033,984:  Sample: 100%    323ms  Train: 100%  45,259ms  Valid: 100% 1,677ms   loss.train:  1.46874 accuracy.train: 0.558833 loss.valid:  1.55318 accuracy.valid: 0.528048  52,523ms  0:07m/  0:20m  
+It is the soul some some some s
+It is the good to my son:
+The d
+It is the mark of the world and
+It is the common of the country
+It is the county the countent o
+It is the common of the country
+It is the common of the country
+It is the that this shall be so
+It is the prophetion of the pro
+It is the senate of the country
+10,037,760:  Sample: 100%    332ms  Train: 100%  45,498ms  Valid: 100% 1,666ms   loss.train:  1.32132 accuracy.train: 0.568485 loss.valid:  1.58337 accuracy.valid: 0.535789  52,510ms  0:08m/  0:19m  
+It is the state of the state,
+T
+It is the country of the seasur
+It is the prophety of the state
+It is the common of the country
+It is the world of the proved t
+It is the prove to the seat of 
+It is the son of the seat of th
+It is the state of the streeth 
+It is the state of the state,
+T
+It is the sun of the sea
+Of the
+11,041,536:  Sample: 100%    307ms  Train: 100%  45,335ms  Valid: 100% 1,646ms   loss.train:  1.38316 accuracy.train: 0.575285 loss.valid:  1.54508 accuracy.valid: 0.541287  52,483ms  0:09m/  0:18m  
+It is the sun of the courteous 
+It is the son of the souls of t
+It is the sound of the season o
+It is the senate of the senate 
+It is the son of the sight.
+
+CO
+It is the state of the state,
+A
+It is the subject of the counte
+It is the world that the world 
+It is the sea thousand the sea,
+It is the sea tongue of the sea
+12,045,312:  Sample: 100%    325ms  Train: 100%  45,128ms  Valid: 100% 1,649ms   loss.train:  1.34821 accuracy.train: 0.583307 loss.valid:  1.51539 accuracy.valid: 0.545996  52,428ms  0:10m/  0:17m  
+It is the seat of the seat,
+And
+It is the prince of the company
+It is the son of my son my soul
+It is the sea true of the seat 
+It is the sea son of the sight 
+It is the sea throne of the sea
+It is the sea that shall be so 
+It is the more than the world o
+It is the sea that which I shal
+It is the prince of the country
+13,049,088:  Sample: 100%    299ms  Train: 100%  45,540ms  Valid: 100% 1,667ms   loss.train:  1.35038 accuracy.train: 0.589210 loss.valid:  1.53738 accuracy.valid: 0.547835  52,365ms  0:11m/  0:16m  
+It is the prince of the country
+It is the second of the son,
+Th
+It is the seat of the sea,
+And 
+It is the son of the seasons of
+It is the day of the death of t
+It is the princely shall be the
+It is the common of the seat,
+A
+It is the sea of the seat of th
+It is the sea of the sea,
+And t
+It is the son of the seat of th
+14,052,864:  Sample: 100%    338ms  Train: 100%  45,294ms  Valid: 100% 1,676ms   loss.train:  1.32467 accuracy.train: 0.594848 loss.valid:  1.52726 accuracy.valid: 0.554679  52,424ms  0:12m/  0:15m  
+It is the sea that shall be so 
+It is the state of the company.
+It is the sun of the sea
+Of the
+It is the state of the seat of 
+It is the seast of the seast,
+A
+It is the season of the seasons
+It is the world of the world,
+T
+It is the season of the sea
+Of 
+It is the sea thousand sons of 
+It is the prince of the court,
+
+15,056,640:  Sample: 100%    316ms  Train: 100%  45,662ms  Valid: 100% 1,691ms   loss.train:  1.26144 accuracy.train: 0.600651 loss.valid:  1.47956 accuracy.valid: 0.555396  52,442ms  0:13m/  0:14m  
+It is the content of the sun,
+A
+It is not to see the sease of t
+It is the sea thousand made the
+It is the sea of the sea,
+And t
+It is the man of the seasts of 
+It is the seat of the seat of t
+It is the seas of the seats of 
+It is the sea of the seast, and
+It is the sea, the sea that she
+It is the sea, and the seas of 
+16,060,416:  Sample: 100%    298ms  Train: 100%  45,220ms  Valid: 100% 1,658ms   loss.train:  1.23091 accuracy.train: 0.604715 loss.valid:  1.54255 accuracy.valid: 0.556786  52,318ms  0:14m/  0:13m  
+It is the sea that thou hast no
+It is the prince of the prince 
+It is the strength of the sea,
+
+It is the sea that the sea thou
+It is the man of the seat of th
+It is the senate of the senate,
+It is the present to the prince
+It is not the straight of the c
+It is the seater of the seat,
+A
+It is the prince of the court, 
+17,064,192:  Sample: 100%    312ms  Train: 100%  45,350ms  Valid: 100% 1,676ms   loss.train:  1.27247 accuracy.train: 0.610221 loss.valid:  1.44038 accuracy.valid: 0.557917  52,452ms  0:14m/  0:13m  
+It is the sea, and the sea of t
+It is not to be a strange of th
+It is not the world of the worl
+It is the seat of the sea,
+And 
+It is the state of the world an
+It is the sea of the sea,
+And t
+It is the state of the courtesy
+It is the man of my son,
+And I 
+It is the state of the court?
+
+
+It is the state of the world an
+18,067,968:  Sample: 100%    310ms  Train: 100%  45,316ms  Valid: 100% 1,662ms   loss.train:  1.16528 accuracy.train: 0.614995 loss.valid:  1.49385 accuracy.valid: 0.560751  52,375ms  0:15m/  0:12m  
+It is the seat of the sea
+Of th
+It is the world of the people, 
+It is the common of the world,
+
+It is the country of the court?
+It is the sea-sing of the commo
+It is the sea of the sea,
+That 
+It is the sea, the sea of the s
+It is not to the consul of the 
+It is the sea, the sea of the s
+It is the sea of the sea
+Of the
+19,071,744:  Sample: 100%    332ms  Train: 100%  45,489ms  Valid: 100% 1,683ms   loss.train:  1.24072 accuracy.train: 0.619727 loss.valid:  1.51109 accuracy.valid: 0.562473  52,516ms  0:16m/  0:11m  
+It is the sea of the sea
+Of the
+It is the strength of the court
+It is not the prince of the com
+It is not the prince of the sea
+It is the seat of the sea, the 
+It is the sea, that I may be so
+It is the sea, and the sea
+Of t
+It is the state of the seasons 
+It is the sea, and the sea of t
+It is the sea, and the sea of t
+20,075,520:  Sample: 100%    324ms  Train: 100%  45,550ms  Valid: 100% 1,685ms   loss.train:  1.17432 accuracy.train: 0.623094 loss.valid:  1.50921 accuracy.valid: 0.564689  52,492ms  0:17m/  0:10m  
+It is the sea, and the sea
+Of t
+It is not the more of the sea, 
+It is a man of man that I may s
+It is not to be a secret to be 
+It is a soldier to the court.
+
+
+It is the contrary of the court
+It is the common of the world,
+
+It is the prince of the sing of
+It is the prince of the court?
+
+It is the seas of the seat,
+And
+21,079,296:  Sample: 100%    344ms  Train: 100%  45,411ms  Valid: 100% 1,692ms   loss.train:  1.18675 accuracy.train: 0.628311 loss.valid:  1.45545 accuracy.valid: 0.565864  52,601ms  0:18m/  0:09m  
+It is the seas of the sea,
+And 
+It is the statue of the world a
+It is the sea of the sea,
+And t
+It is the common of the world,
+
+It is not the country's part, a
+It is the common of the world,
+
+It is the world of the world,
+T
+It is the world is that the swe
+It is the world of the world is
+It is the sea that the sea
+Of t
+22,083,072:  Sample: 100%    357ms  Train: 100%  45,615ms  Valid: 100% 1,681ms   loss.train:  1.13462 accuracy.train: 0.631420 loss.valid:  1.48772 accuracy.valid: 0.566303  52,684ms  0:19m/  0:08m  
+It is the strange of the court?
+It is the straight and love to 
+It is the prince of the people,
+It is the prince of the people,
+It is the day of the world.
+
+GL
+It is the sea of the sea,
+And t
+It is the sea that the sea
+Of t
+It is not the common of the wor
+It is the sea of the sea, the s
+It is not the common of the wor
+23,086,848:  Sample: 100%    363ms  Train: 100%  45,303ms  Valid: 100% 1,674ms   loss.train:  1.20234 accuracy.train: 0.634504 loss.valid:  1.44941 accuracy.valid: 0.568348  52,722ms  0:20m/  0:07m  
+It is the common of the world:
+
+It is the sentence of the senat
+It is the contract of the world
+It is the sea that I have seen 
+It is not so, the senate of the
+It is the sea of the sea,
+And t
+It is the sea of the sea,
+And t
+It is the seal of the seas, the
+It is the sea of the sea,
+And t
+It is the sea that I have seen 
+24,090,624:  Sample: 100%    378ms  Train: 100%  45,540ms  Valid: 100% 1,713ms   loss.train:  1.11418 accuracy.train: 0.637767 loss.valid:  1.45551 accuracy.valid: 0.565496  52,838ms  0:21m/  0:07m  
+It is the sea of the sea,
+And t
+It is the statue of the world:
+
+It is the sea that I have seen 
+It is the law of the world and 
+It is not the world that we hav
+It is the sea that I have seen 
+It is the sea that I have seen 
+It is the contract of the time
+
+It is the contract of the world
+It is the sea that I have said,
+25,094,400:  Sample: 100%    367ms  Train: 100%  45,754ms  Valid: 100% 1,683ms   loss.train:  1.10488 accuracy.train: 0.639730 loss.valid:  1.49532 accuracy.valid: 0.567514  52,942ms  0:21m/  0:06m  
+It is the sea of the sea
+Of the
+It is the word of the world,
+Th
+It is the sea of the sea, the s
+It is the contrary of the world
+It is the contrary.
+
+CLARENCE:
+
+It is the sea that I have seen 
+It is the sea
+Of the second tha
+It is the dead that was the wor
+It is the contract of the world
+It is the sea, that I may be so
+26,098,176:  Sample: 100%    377ms  Train: 100%  45,579ms  Valid: 100% 1,683ms   loss.train:  1.12343 accuracy.train: 0.642521 loss.valid:  1.46245 accuracy.valid: 0.568545  53,047ms  0:22m/  0:05m  
+It is the sea of the world was 
+It is the senate of the people,
+It is the sea that I have seen 
+It is the sea that I have seen 
+It is the world with the world 
+It is the sea that I have seen 
+It is the last of the world and
+It is the sea to the seas of th
+It is the sea of the sea,
+And t
+It is the sea that I have seen 
+27,101,952:  Sample: 100%    355ms  Train: 100%  45,675ms  Valid: 100% 1,697ms   loss.train:  1.13933 accuracy.train: 0.643826 loss.valid:  1.43931 accuracy.valid: 0.568312  53,111ms  0:23m/  0:04m  
+It is the sea of the sea, the s
+It is the sea of the country's 
+It is the sea that I have said 
+It is the sea that I have said 
+It is not the prince of the duk
+It is the sea, and the sea the 
+It is the contrary.
+
+CORIOLANUS
+It is the common of the world i
+It is the sea that I have seen 
+It is the sea that I have seen 
+28,105,728:  Sample: 100%    367ms  Train: 100%  45,366ms  Valid: 100% 1,676ms   loss.train:  1.15047 accuracy.train: 0.645432 loss.valid:  1.52136 accuracy.valid: 0.567128  53,189ms  0:24m/  0:03m  
+It is the sea that I have seen 
+It is the contrary of the sea,
+
+It is the sea that I have seen 
+It is the sea that I have seen 
+It is not so much a secret in h
+It is not the common of the wor
+It is not the contrary.
+
+CORIOL
+It is the world and the world a
+It is the sea that I have seen 
+It is the sea that I have seen 
+29,109,504:  Sample: 100%    385ms  Train: 100%  45,593ms  Valid: 100% 1,681ms   loss.train:  1.14974 accuracy.train: 0.645525 loss.valid:  1.47027 accuracy.valid: 0.568456  53,181ms  0:25m/  0:02m  
+It is the sea that I have seen 
+It is the father of his friends
+It is not the contrary.
+
+CORIOL
+It is not the contrary.
+
+CORIOL
+It is not so shall be the world
+It is the sea that I have seen 
+It is not the prince of the sea
+It is a shame, and so that I sh
+It is the sea that I have seen 
+It is not the common of the wor
+30,113,280:  Sample: 100%    372ms  Train: 100%  45,574ms  Valid: 100% 1,684ms   loss.train:  1.09282 accuracy.train: 0.646875 loss.valid:  1.51424 accuracy.valid: 0.568043  53,187ms  0:26m/  0:02m  
+It is not the sea, the sea of t
+It is the lawful king,
+And ther
+It is not the prince of the sea
+It is the sea, and the sea the 
+It is a great and so as the sea
+It is not the prince of the sea
+It is not the contrary.
+
+CORIOL
+It is the lady kind of the comm
+It is not the prince of the sea
+It is not the prince of the sea
+31,117,056:  Sample: 100%    403ms  Train: 100%  45,634ms  Valid: 100% 1,711ms   loss.train:  1.11554 accuracy.train: 0.648218 loss.valid:  1.51699 accuracy.valid: 0.566823  53,301ms  0:27m/  0:01m  
+It is not the world with the su
+It is not the whitest thou wilt
+It is not the prince of the com
+It is the senate of the people,
+It is the world of the world wa
+It is the sea that I have seen 
+It is the sea that I have seen 
+It is the land of the world wit
+It is not the contrary.
+
+CORIOL
+It is not the contrary.
+
+CORIOL
+32,120,832:   loss.train:  1.13326 accuracy.train: 0.647983 loss.valid:  1.53359 accuracy.valid: 0.566859
+Saving model...
